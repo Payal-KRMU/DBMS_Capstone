@@ -2,16 +2,6 @@
 
 # BHOOKH — Multi-Restaurant Food Ordering Application
 
-[![System](https://img.shields.io/badge/Project-BHOOKH-1A382B.svg?style=for-the-badge)](https://github.com)
-[![Database](https://img.shields.io/badge/Database-MySQL_8.0_bHOOKH__db-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
-[![Backend](https://img.shields.io/badge/Backend-Node.js_Express-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Frontend](https://img.shields.io/badge/Frontend-React.js_Vite-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Payments](https://img.shields.io/badge/Payments-Razorpay_&_COD-0C2340.svg?style=for-the-badge&logo=razorpay&logoColor=blue)](https://razorpay.com/)
-
-> **IMPORTANT**: The official, singular application name is **BHOOKH**. No alternate or legacy names are used anywhere in the codebase, database documentation, or user interfaces.
-
----
-
 ## 1. Project Objective & System Overview
 
 **BHOOKH** is a comprehensive, production-grade multi-restaurant food ordering and delivery web application inspired by platforms such as Zomato and Swiggy. Developed as a college capstone project, its central foundation is an enterprise-grade, fully normalized relational database engineered in **MySQL 8.0** and managed with **MySQL Workbench 8.0**.
