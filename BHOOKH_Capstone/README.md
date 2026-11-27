@@ -1,5 +1,7 @@
 # BHOOKH — Multi-Restaurant Food Ordering Application
 
+#Deployment Link : https://eight-bites-ordering-studio.lovable.app/
+
 [![System](https://img.shields.io/badge/Project-BHOOKH-1A382B.svg?style=for-the-badge)](https://github.com)
 [![Database](https://img.shields.io/badge/Database-MySQL_8.0_bHOOKH__db-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
 [![Backend](https://img.shields.io/badge/Backend-Node.js_Express-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
